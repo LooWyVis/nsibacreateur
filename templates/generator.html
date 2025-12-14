@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Générateur de Bac Blanc — NSI</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <header class="wrap">
+    <h1>Générateur de Bac Blanc — NSI</h1>
+    <p>Choisis des tags, puis génère une combinaison de 3 à 5 exercices.</p>
+    <a href="/"><button>Retour</button></a>
+
+  </header>
+
+  <main class="wrap">
+    <section class="panel">
+      <div class="row">
+        <input id="tagSearch" placeholder="Rechercher un tag… (sql, graphes, réseaux)" />
+        <select id="k">
+          <option value="3">3 exercices</option>
+          <option value="4">4 exercices</option>
+          <option value="5">5 exercices</option>
+        </select>
+        <label class="muted" style="display:flex;gap:8px;align-items:center">
+          <input type="checkbox" id="avoidSame" checked />
+          Éviter 2 ex du même sujet
+        </label>
+        <label class="muted" style="display:flex;gap:8px;align-items:center">
+          <input type="checkbox" id="onlySelected" />
+          N’utiliser que les thèmes sélectionnés
+        </label>
+        <button class="btn" id="generate">Générer</button>
+        <button class="btn" id="clear">Vider sélection</button>
+      </div>
+
+      <div class="muted" id="selCount">0 tag(s) sélectionné(s)</div>
+      <div class="tags" id="tagList"></div>
+    </section>
+
+    <section class="panel" style="margin-top:12px;">
+      <h2 style="margin:0 0 8px 0; font-size:18px;">Proposition</h2>
+      <p class="muted" id="coverage">—</p>
+      <section id="combo" class="grid"></section>
+    </section>
+  </main>
+
+  <script src="/static/generator.js"></script>
+</body>
+</html>

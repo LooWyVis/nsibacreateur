@@ -1,0 +1,3684 @@
+[
+  {
+    "id": "2025-amérique-nord-25-NSIJ1AN1-ex1",
+    "subject_id": "2025-amérique-nord-25-NSIJ1AN1",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1AN1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "arbres binaires",
+      "récursivité",
+      "programmation orientée objet"
+    ],
+    "raw": "Arbres binaires, récursivité, POO",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet1_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1AN1-corr1.tex"
+      },
+      {
+        "label": "Correction3",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25_NSI_J1_AN1_correc_YA.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Correction3.pdf"
+      },
+      {
+        "label": "Pixxes",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_01.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Pixxes.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-amérique-nord-25-NSIJ1AN1-ex2",
+    "subject_id": "2025-amérique-nord-25-NSIJ1AN1",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1AN1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "récursivité",
+      "programmation orientée objet"
+    ],
+    "raw": "POO, récursivité, algorithmes",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet1_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1AN1-corr1.tex"
+      },
+      {
+        "label": "Correction3",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25_NSI_J1_AN1_correc_YA.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Correction3.pdf"
+      },
+      {
+        "label": "Pixxes",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_01.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Pixxes.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-amérique-nord-25-NSIJ1AN1-ex3",
+    "subject_id": "2025-amérique-nord-25-NSIJ1AN1",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1AN1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "bases de données",
+      "graphes",
+      "récursivité",
+      "tris",
+      "algorithmes gloutons"
+    ],
+    "raw": "BDD, Graphes, Tris, algo. Gloutons et récursivité",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet1_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1AN1-corr1.tex"
+      },
+      {
+        "label": "Correction3",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25_NSI_J1_AN1_correc_YA.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Correction3.pdf"
+      },
+      {
+        "label": "Pixxes",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_01.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ1AN1/Pixxes.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-amérique-nord-25-NSIJ2AN1-ex1",
+    "subject_id": "2025-amérique-nord-25-NSIJ2AN1",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2A",
+    "code": "25-NSIJ2AN1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "arbres binaires",
+      "récursivité",
+      "programmation python",
+      "tableaux",
+      "dictionnaires"
+    ],
+    "raw": "les tableaux, les dictionnaires, les arbres binaires, la programmation en Python et la récursivité.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet2A_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Pixxes",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_02.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/Pixxes.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-amérique-nord-25-NSIJ2AN1-ex2",
+    "subject_id": "2025-amérique-nord-25-NSIJ2AN1",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2A",
+    "code": "25-NSIJ2AN1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet"
+    ],
+    "raw": "la gestion des bugs, l’algorithmique, les structures de données et la programmation orientée objet.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet2A_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Pixxes",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_02.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/Pixxes.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-amérique-nord-25-NSIJ2AN1-ex3",
+    "subject_id": "2025-amérique-nord-25-NSIJ2AN1",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2A",
+    "code": "25-NSIJ2AN1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "bases de données",
+      "graphes",
+      "récursivité",
+      "programmation python"
+    ],
+    "raw": "les bases de données, la programmation en Python, la récursivité et les algorithmes de parcours de graphes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet2A_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Pixxes",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_02.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIJ2AN1/Pixxes.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-amérique-nord-25-NSIPE2-ex1",
+    "subject_id": "2025-amérique-nord-25-NSIPE2",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2B",
+    "code": "25-NSIPE2",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation python",
+      "programmation dynamique"
+    ],
+    "raw": "la programmation en Python et la programmation dynamique.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIPE2.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIPE2/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet2B_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIPE2/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_03.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIPE2/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-amérique-nord-25-NSIPE2-ex2",
+    "subject_id": "2025-amérique-nord-25-NSIPE2",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2B",
+    "code": "25-NSIPE2",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "arbres binaires"
+    ],
+    "raw": "les arbres binaires et la représentation binaire (Huffman).",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIPE2.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIPE2/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet2B_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIPE2/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_03.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIPE2/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-amérique-nord-25-NSIPE2-ex3",
+    "subject_id": "2025-amérique-nord-25-NSIPE2",
+    "year": 2025,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2B",
+    "code": "25-NSIPE2",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "bases de données",
+      "graphes",
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "la programmation objet en langage Python, les graphes et les bases de données.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIPE2.pdf",
+    "local_subject_file": "NSI/2025/Amérique Nord/25-NSIPE2/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/BACNSI2025_AmeriqueNord_Sujet2B_corr.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIPE2/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_03.pdf",
+        "local_file": "NSI/2025/Amérique Nord/25-NSIPE2/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-asie-25-NSIJ1JA1-ex1",
+    "subject_id": "2025-asie-25-NSIJ1JA1",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1JA1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation python",
+      "décidabilité"
+    ],
+    "raw": "Cet exercice porte sur la décidabilité, l’algorithmique et la programmation en Python.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1JA1.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIJ1JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ1JA1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.tex"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_04.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ1JA1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-asie-25-NSIJ1JA1-ex2",
+    "subject_id": "2025-asie-25-NSIJ1JA1",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1JA1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "huffman"
+    ],
+    "raw": "Cet exercice porte sur les arbres et la compression d’un fichier texte (Huffman)",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1JA1.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIJ1JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ1JA1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.tex"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_04.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ1JA1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-asie-25-NSIJ1JA1-ex3",
+    "subject_id": "2025-asie-25-NSIJ1JA1",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1JA1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "dictionnaires",
+      "sécurité / crypto"
+    ],
+    "raw": "Cet exercice porte sur les dictionnaires et leurs algorithmes associés, le traitement de données en table, la sécurisation des communications et la programmation en général.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1JA1.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIJ1JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ1JA1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1JA1-corr1.tex"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_04.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ1JA1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-asie-25-NSIJ2JA1-ex1",
+    "subject_id": "2025-asie-25-NSIJ2JA1",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2JA1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet"
+    ],
+    "raw": "Cet exercice porte sur la programmation orientée objet et l’algorithmique.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2JA1.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIJ2JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2JA1-corr1.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ2JA1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2JA1-corr1.tex"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_05.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ2JA1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-asie-25-NSIJ2JA1-ex2",
+    "subject_id": "2025-asie-25-NSIJ2JA1",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2JA1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "programmation python",
+      "processus"
+    ],
+    "raw": "Cet exercice porte sur la programmation Python, la gestion des processus.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2JA1.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIJ2JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2JA1-corr1.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ2JA1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2JA1-corr1.tex"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_05.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ2JA1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-asie-25-NSIJ2JA1-ex3",
+    "subject_id": "2025-asie-25-NSIJ2JA1",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2JA1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "arbres binaires",
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "Cet exercice porte sur la programmation Python (dictionnaire, récursivité, spécification), la programmation orientée objet, les bases de données relationnelles, les requêtes SQL et les arbres binaires.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2JA1.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIJ2JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2JA1-corr1.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ2JA1/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2JA1-corr1.tex"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2025/correction_sujet_05.pdf",
+        "local_file": "NSI/2025/Asie/25-NSIJ2JA1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-centre-etrangers-25-NSIJ1G11-ex1",
+    "subject_id": "2025-centre-etrangers-25-NSIJ1G11",
+    "year": 2025,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1G11",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "graphes",
+      "programmation orientée objet"
+    ],
+    "raw": "Cet exercice porte sur les graphes et la programmation orientée objet.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25_NSIJ1G11.pdf",
+    "local_subject_file": "NSI/2025/Centre Etrangers/25-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1G11-corr1.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ1G11/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1G11-corr1.tex"
+      }
+    ]
+  },
+  {
+    "id": "2025-centre-etrangers-25-NSIJ1G11-ex2",
+    "subject_id": "2025-centre-etrangers-25-NSIJ1G11",
+    "year": 2025,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1G11",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "récursivité",
+      "files"
+    ],
+    "raw": "Cet exercice porte sur l’algorithmique, la récursivité et les files .",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25_NSIJ1G11.pdf",
+    "local_subject_file": "NSI/2025/Centre Etrangers/25-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1G11-corr1.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ1G11/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1G11-corr1.tex"
+      }
+    ]
+  },
+  {
+    "id": "2025-centre-etrangers-25-NSIJ1G11-ex3",
+    "subject_id": "2025-centre-etrangers-25-NSIJ1G11",
+    "year": 2025,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1G11",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "bases de données",
+      "arbres binaires",
+      "arbres binaires de recherche"
+    ],
+    "raw": "Cet exercice porte sur les types de données construits (listes et dictionnaires), sur les arbres binaires de recherche et sur les bases de données.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25_NSIJ1G11.pdf",
+    "local_subject_file": "NSI/2025/Centre Etrangers/25-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1G11-corr1.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ1G11/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ1G11-corr1.tex"
+      }
+    ]
+  },
+  {
+    "id": "2025-centre-etrangers-25-NSIJ2G11-ex1",
+    "subject_id": "2025-centre-etrangers-25-NSIJ2G11",
+    "year": 2025,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2G11",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "Cet exercice porte sur les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_Specialite_Maths/bac-2025/25_NSIJ2G11.pdf",
+    "local_subject_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2G11-corr1.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2G11-corr1.tex"
+      },
+      {
+        "label": "Une autre correction",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/T-Bac_2025_J2.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/Une autre correction.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-centre-etrangers-25-NSIJ2G11-ex2",
+    "subject_id": "2025-centre-etrangers-25-NSIJ2G11",
+    "year": 2025,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2G11",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "récursivité",
+      "dictionnaires",
+      "listes"
+    ],
+    "raw": "Cet exercice porte sur les listes, les dictionnaires, les fonctions et la récursivité.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_Specialite_Maths/bac-2025/25_NSIJ2G11.pdf",
+    "local_subject_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2G11-corr1.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2G11-corr1.tex"
+      },
+      {
+        "label": "Une autre correction",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/T-Bac_2025_J2.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/Une autre correction.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-centre-etrangers-25-NSIJ2G11-ex3",
+    "subject_id": "2025-centre-etrangers-25-NSIJ2G11",
+    "year": 2025,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2G11",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "graphes",
+      "récursivité",
+      "programmation orientée objet"
+    ],
+    "raw": "Cet exercice porte sur les graphes, la programmation objet et la récursivité.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_Specialite_Maths/bac-2025/25_NSIJ2G11.pdf",
+    "local_subject_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "PDF",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2G11-corr1.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/PDF.pdf"
+      },
+      {
+        "label": "LaTeX",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25NSIJ2G11-corr1.tex"
+      },
+      {
+        "label": "Une autre correction",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/T-Bac_2025_J2.pdf",
+        "local_file": "NSI/2025/Centre Etrangers/25-NSIJ2G11/Une autre correction.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2025-métropole-25-NSIJ1ME1-ex1",
+    "subject_id": "2025-métropole-25-NSIJ1ME1",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1ME1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "Cet exercice porte sur les bases de données relationnelles et les requêtes SQL. (10 questions)",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/spe_numerique_informatique_2025_metropole_1_sujet_officiel_1_.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ1ME1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ1ME1-ex2",
+    "subject_id": "2025-métropole-25-NSIJ1ME1",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1ME1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "processus"
+    ],
+    "raw": "Cet exercice porte sur l’algorithmique, les structures de données, et la gestion de processus. (10 questions)",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/spe_numerique_informatique_2025_metropole_1_sujet_officiel_1_.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ1ME1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ1ME1-ex3",
+    "subject_id": "2025-métropole-25-NSIJ1ME1",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1ME1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche",
+      "programmation python"
+    ],
+    "raw": "Cet exercice porte sur l’architecture matérielle (réseau), les arbres binaires de recherche et la programmation Python. (17 questions)",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/spe_numerique_informatique_2025_metropole_1_sujet_officiel_1_.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ1ME1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ2ME1-ex1",
+    "subject_id": "2025-métropole-25-NSIJ2ME1",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2ME1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "arbres binaires",
+      "programmation python"
+    ],
+    "raw": "les arbres binaires et la programmation Python.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/spe_numerique_informatique_2025_metropole_2_sujet_officiel_1_.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ2ME1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ2ME1-ex2",
+    "subject_id": "2025-métropole-25-NSIJ2ME1",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2ME1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "les bases de données relationnelles, le langage SQL et la programmation.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/spe_numerique_informatique_2025_metropole_2_sujet_officiel_1_.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ2ME1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ2ME1-ex3",
+    "subject_id": "2025-métropole-25-NSIJ2ME1",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2ME1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "programmation python",
+      "réseaux",
+      "sécurité / crypto"
+    ],
+    "raw": "la programmation de base en Python, la sécurisation des communications et les réseaux.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/spe_numerique_informatique_2025_metropole_2_sujet_officiel_1_.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ2ME1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-polynésie-25-NSIJ1PO1-ex1",
+    "subject_id": "2025-polynésie-25-NSIJ1PO1",
+    "year": 2025,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1PO1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet",
+      "réseaux"
+    ],
+    "raw": "les protocoles réseaux, l’algorithmique et la POO.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/Polynesie1.pdf",
+    "local_subject_file": "NSI/2025/Polynésie/25-NSIJ1PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-polynésie-25-NSIJ1PO1-ex2",
+    "subject_id": "2025-polynésie-25-NSIJ1PO1",
+    "year": 2025,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1PO1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "récursivité",
+      "programmation python"
+    ],
+    "raw": "la programmation Python et la récursivité",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/Polynesie1.pdf",
+    "local_subject_file": "NSI/2025/Polynésie/25-NSIJ1PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-polynésie-25-NSIJ1PO1-ex3",
+    "subject_id": "2025-polynésie-25-NSIJ1PO1",
+    "year": 2025,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1PO1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation python",
+      "systèmes d’exploitation",
+      "sécurité / crypto"
+    ],
+    "raw": "la programmation en Python, les bases de données relationnelles, le langage SQL, les systèmes d’exploitation et la sécurisation des communications.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/Polynesie1.pdf",
+    "local_subject_file": "NSI/2025/Polynésie/25-NSIJ1PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-polynésie-25-NSIJ2PO1-ex1",
+    "subject_id": "2025-polynésie-25-NSIJ2PO1",
+    "year": 2025,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2PO1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "la programmation orientée objet, l’algorithmique et la programmation en Python.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/Polynesie2.pdf",
+    "local_subject_file": "NSI/2025/Polynésie/25-NSIJ2PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-polynésie-25-NSIJ2PO1-ex2",
+    "subject_id": "2025-polynésie-25-NSIJ2PO1",
+    "year": 2025,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2PO1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "la programmation Python, la programmation orientée objet, les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/Polynesie2.pdf",
+    "local_subject_file": "NSI/2025/Polynésie/25-NSIJ2PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-polynésie-25-NSIJ2PO1-ex3",
+    "subject_id": "2025-polynésie-25-NSIJ2PO1",
+    "year": 2025,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2PO1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "graphes",
+      "programmation orientée objet",
+      "tableaux",
+      "dictionnaires",
+      "piles",
+      "files"
+    ],
+    "raw": "de tableaux, de dictionnaires, de recherche de chemins dans un graphe, de piles, de files et de POO.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/Polynesie2.pdf",
+    "local_subject_file": "NSI/2025/Polynésie/25-NSIJ2PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ1ME3-ex1",
+    "subject_id": "2025-métropole-25-NSIJ1ME3",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1ME3",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "la programmation, les réseaux et les protocoles de routage.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1ME3.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ1ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ1ME3-ex2",
+    "subject_id": "2025-métropole-25-NSIJ1ME3",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1ME3",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "listes",
+      "programmation dynamique"
+    ],
+    "raw": "l’algorithmique, les listes et la programmation dynamique",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1ME3.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ1ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ1ME3-ex3",
+    "subject_id": "2025-métropole-25-NSIJ1ME3",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "25-NSIJ1ME3",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "programmation python"
+    ],
+    "raw": "le langage SQL, sur la programmation en Python et la recherche textuelle.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1ME3.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ1ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-métropole-25-NSIJ2ME3-ex1",
+    "subject_id": "2025-métropole-25-NSIJ2ME3",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2ME3",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation python",
+      "sécurité / crypto"
+    ],
+    "raw": "la programmation Python et la cryptographie.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2ME3.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ2ME3/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Tiplanet",
+        "url": "https://tiplanet.org/modules/archives/download.php?id=4914411"
+      }
+    ]
+  },
+  {
+    "id": "2025-métropole-25-NSIJ2ME3-ex2",
+    "subject_id": "2025-métropole-25-NSIJ2ME3",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2ME3",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet",
+      "systèmes d’exploitation"
+    ],
+    "raw": "les systèmes d’exploitation ainsi que sur programmation et la programmation orientée objet.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2ME3.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ2ME3/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Tiplanet",
+        "url": "https://tiplanet.org/modules/archives/download.php?id=4914411"
+      }
+    ]
+  },
+  {
+    "id": "2025-métropole-25-NSIJ2ME3-ex3",
+    "subject_id": "2025-métropole-25-NSIJ2ME3",
+    "year": 2025,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "25-NSIJ2ME3",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "bases de données",
+      "graphes",
+      "programmation python"
+    ],
+    "raw": "les bases de données, les graphes et la programmation de base en Python",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2ME3.pdf",
+    "local_subject_file": "NSI/2025/Métropole/25-NSIJ2ME3/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Tiplanet",
+        "url": "https://tiplanet.org/modules/archives/download.php?id=4914411"
+      }
+    ]
+  },
+  {
+    "id": "2025-asie-25-NSIPE4-ex1",
+    "subject_id": "2025-asie-25-NSIPE4",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIPE4",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIPE4.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIPE4/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-asie-25-NSIPE4-ex2",
+    "subject_id": "2025-asie-25-NSIPE4",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIPE4",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "graphes",
+      "réseaux"
+    ],
+    "raw": "les réseaux, le routage, les graphes et la programmation.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIPE4.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIPE4/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-asie-25-NSIPE4-ex3",
+    "subject_id": "2025-asie-25-NSIPE4",
+    "year": 2025,
+    "session": "Asie",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIPE4",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "programmation orientée objet",
+      "tableaux",
+      "listes",
+      "piles"
+    ],
+    "raw": "l’algorithmique des tableaux, la gestion de bugs, les listes, les piles et la programmation orientée objet.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIPE4.pdf",
+    "local_subject_file": "NSI/2025/Asie/25-NSIPE4/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-amérique-sud-25-NSIJ1AS1-ex1",
+    "subject_id": "2025-amérique-sud-25-NSIJ1AS1",
+    "year": 2025,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIJ1AS1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données",
+      "arbres binaires"
+    ],
+    "raw": "les bases de données et les requêtes SQL, les arbres binaires et les algorithmes sur les arbres binaires.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Sud/25-NSIJ1AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-amérique-sud-25-NSIJ1AS1-ex2",
+    "subject_id": "2025-amérique-sud-25-NSIJ1AS1",
+    "year": 2025,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIJ1AS1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet",
+      "programmation python",
+      "processus",
+      "systèmes d’exploitation"
+    ],
+    "raw": "les systèmes d’exploitation, les processus, les structures de données linéaires, la programmation en Python et en particulier la programmation orientée objet.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Sud/25-NSIJ1AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-amérique-sud-25-NSIJ1AS1-ex3",
+    "subject_id": "2025-amérique-sud-25-NSIJ1AS1",
+    "year": 2025,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIJ1AS1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "programmation python",
+      "réseaux",
+      "systèmes d’exploitation"
+    ],
+    "raw": "les systèmes d’exploitation, les réseaux et la programmation de base en Python.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ1AN1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Sud/25-NSIJ1AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-amérique-sud-25-NSIJ2AS1-ex1",
+    "subject_id": "2025-amérique-sud-25-NSIJ2AS1",
+    "year": 2025,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIJ2AS1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation python",
+      "listes"
+    ],
+    "raw": "les bases de données relationnelles, les requêtes SQL, la programmation en Python et la manipulation de listes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2AS1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Sud/25-NSIJ2AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-amérique-sud-25-NSIJ2AS1-ex2",
+    "subject_id": "2025-amérique-sud-25-NSIJ2AS1",
+    "year": 2025,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIJ2AS1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet",
+      "piles"
+    ],
+    "raw": "la structure de pile, la programmation objet et l’algorithmique.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2AS1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Sud/25-NSIJ2AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2025-amérique-sud-25-NSIJ2AS1-ex3",
+    "subject_id": "2025-amérique-sud-25-NSIJ2AS1",
+    "year": 2025,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "25-NSIJ2AS1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "graphes",
+      "programmation python",
+      "réseaux"
+    ],
+    "raw": "la programmation Python, les graphes et les réseaux.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2025/25-NSIJ2AS1.pdf",
+    "local_subject_file": "NSI/2025/Amérique Sud/25-NSIJ2AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-inconnu-24-NSIZERO-ex1",
+    "subject_id": "2024-inconnu-24-NSIZERO",
+    "year": 2024,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "24-NSIZERO",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "(Réseau et architecture 1re ) (Protocoles Tle) l’architecture matérielle, les réseaux, les routeurs et les protocoles de routage.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/bac_nsi_2024_sujet0a.pdf",
+    "local_subject_file": "NSI/2024/Inconnu/24-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de math93",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_Sujet0_A.pdf",
+        "local_file": "NSI/2024/Inconnu/24-NSIZERO/Corrigé de math93.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-inconnu-24-NSIZERO-ex2",
+    "subject_id": "2024-inconnu-24-NSIZERO",
+    "year": 2024,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "24-NSIZERO",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "programmation python",
+      "dictionnaires",
+      "listes"
+    ],
+    "raw": "(Algorithmique, Dictionnaires, Listes 1re) les listes, les dictionnaires et la programmation de base en Python.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/bac_nsi_2024_sujet0a.pdf",
+    "local_subject_file": "NSI/2024/Inconnu/24-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de math93",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_Sujet0_A.pdf",
+        "local_file": "NSI/2024/Inconnu/24-NSIZERO/Corrigé de math93.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-inconnu-24-NSIZERO-ex3",
+    "subject_id": "2024-inconnu-24-NSIZERO",
+    "year": 2024,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "24-NSIZERO",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "graphes"
+    ],
+    "raw": "(Arbres, Graphes, BDD, SQL Tle) les graphes, les algorithmes sur les graphes, les bases de données et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/bac_nsi_2024_sujet0a.pdf",
+    "local_subject_file": "NSI/2024/Inconnu/24-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de math93",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_Sujet0_A.pdf",
+        "local_file": "NSI/2024/Inconnu/24-NSIZERO/Corrigé de math93.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-inconnu-24-NSIZERO-ex1",
+    "subject_id": "2024-inconnu-24-NSIZERO",
+    "year": 2024,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "24-NSIZERO",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "récursivité",
+      "listes",
+      "programmation dynamique"
+    ],
+    "raw": "(Récursivité, listes, prog Dynamique Tle) la notion de listes, la récursivité et la programmation dynamique",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/bac_nsi_2024_sujet0b.pdf",
+    "local_subject_file": "NSI/2024/Inconnu/24-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de math93",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_Sujet0_B__CORR.pdf",
+        "local_file": "NSI/2024/Inconnu/24-NSIZERO/Corrigé de math93.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-inconnu-24-NSIZERO-ex2",
+    "subject_id": "2024-inconnu-24-NSIZERO",
+    "year": 2024,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "24-NSIZERO",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "processus",
+      "systèmes d’exploitation"
+    ],
+    "raw": "(UNIX, SE, Piles et Files Tle) les systèmes d’exploitation, les commandes UNIX, les structures de données (de type LIFO et FIFO) et les processus.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/bac_nsi_2024_sujet0b.pdf",
+    "local_subject_file": "NSI/2024/Inconnu/24-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de math93",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_Sujet0_B__CORR.pdf",
+        "local_file": "NSI/2024/Inconnu/24-NSIZERO/Corrigé de math93.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-inconnu-24-NSIZERO-ex3",
+    "subject_id": "2024-inconnu-24-NSIZERO",
+    "year": 2024,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "24-NSIZERO",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "(Dictionnaires, POO, BDD et SQL Tle) la programmation Python (dictionnaire), la programmation orientée objet, les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/bac_nsi_2024_sujet0b.pdf",
+    "local_subject_file": "NSI/2024/Inconnu/24-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de math93",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_Sujet0_B__CORR.pdf",
+        "local_file": "NSI/2024/Inconnu/24-NSIZERO/Corrigé de math93.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-amérique-nord-24-NSIJ1AN1-ex1",
+    "subject_id": "2024-amérique-nord-24-NSIJ1AN1",
+    "year": 2024,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1AN1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet",
+      "files",
+      "processus"
+    ],
+    "raw": "POO, File, Ordonnancement et Interblocage",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/spe-numerique-informatique-2024-amerique-nord-1-sujet-officiel.pdf",
+    "local_subject_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_AmeriqueNord_Sujet1_corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Corrigé de Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_03.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Pixees.pdf"
+      },
+      {
+        "label": "Corrigé de Fred",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1AN1-corr-Fred.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Fred.pdf"
+      },
+      {
+        "label": "corrigé mydata",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-amerique-nord-1-sujet-corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/corrigé mydata.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-amérique-nord-24-NSIJ1AN1-ex2",
+    "subject_id": "2024-amérique-nord-24-NSIJ1AN1",
+    "year": 2024,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1AN1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "graphes"
+    ],
+    "raw": "Graphes",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/spe-numerique-informatique-2024-amerique-nord-1-sujet-officiel.pdf",
+    "local_subject_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_AmeriqueNord_Sujet1_corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Corrigé de Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_03.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Pixees.pdf"
+      },
+      {
+        "label": "Corrigé de Fred",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1AN1-corr-Fred.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Fred.pdf"
+      },
+      {
+        "label": "corrigé mydata",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-amerique-nord-1-sujet-corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/corrigé mydata.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-amérique-nord-24-NSIJ1AN1-ex3",
+    "subject_id": "2024-amérique-nord-24-NSIJ1AN1",
+    "year": 2024,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1AN1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation python"
+    ],
+    "raw": "Python, Bases de Données, SQL",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/spe-numerique-informatique-2024-amerique-nord-1-sujet-officiel.pdf",
+    "local_subject_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_AmeriqueNord_Sujet1_corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Corrigé de Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_03.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Pixees.pdf"
+      },
+      {
+        "label": "Corrigé de Fred",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1AN1-corr-Fred.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/Corrigé de Fred.pdf"
+      },
+      {
+        "label": "corrigé mydata",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-amerique-nord-1-sujet-corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ1AN1/corrigé mydata.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-amérique-nord-24-NSIJ2AN1-ex1",
+    "subject_id": "2024-amérique-nord-24-NSIJ2AN1",
+    "year": 2024,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2AN1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "récursivité",
+      "tris"
+    ],
+    "raw": "Algo de Tri, Programmation, récursivité Erreur dans l'exercice avec beaucoup d'imprécisions",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2AN1.pdf",
+    "local_subject_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_AmeriqueNord_Sujet2_corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Corrigé de Fred",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2AN1-corr-Fred.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Fred.pdf"
+      },
+      {
+        "label": "Corrigé de Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_04.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Pixees.pdf"
+      },
+      {
+        "label": "Corrigé mydata",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-amerique-nord-2-sujet-corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé mydata.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-amérique-nord-24-NSIJ2AN1-ex2",
+    "subject_id": "2024-amérique-nord-24-NSIJ2AN1",
+    "year": 2024,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2AN1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "SQL, BDD",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2AN1.pdf",
+    "local_subject_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_AmeriqueNord_Sujet2_corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Corrigé de Fred",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2AN1-corr-Fred.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Fred.pdf"
+      },
+      {
+        "label": "Corrigé de Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_04.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Pixees.pdf"
+      },
+      {
+        "label": "Corrigé mydata",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-amerique-nord-2-sujet-corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé mydata.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-amérique-nord-24-NSIJ2AN1-ex3",
+    "subject_id": "2024-amérique-nord-24-NSIJ2AN1",
+    "year": 2024,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2AN1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "programmation orientée objet",
+      "réseaux"
+    ],
+    "raw": "POO, Structures de données, réseaux et architecture",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2AN1.pdf",
+    "local_subject_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé de Math93.com",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/BACNSI2024_AmeriqueNord_Sujet2_corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Math93.com.pdf"
+      },
+      {
+        "label": "Corrigé de Fred",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2AN1-corr-Fred.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Fred.pdf"
+      },
+      {
+        "label": "Corrigé de Pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_04.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé de Pixees.pdf"
+      },
+      {
+        "label": "Corrigé mydata",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-amerique-nord-2-sujet-corr.pdf",
+        "local_file": "NSI/2024/Amérique Nord/24-NSIJ2AN1/Corrigé mydata.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-centre-etrangers-24-NSIJ1G11-ex1",
+    "subject_id": "2024-centre-etrangers-24-NSIJ1G11",
+    "year": 2024,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1G11",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "graphes",
+      "programmation dynamique",
+      "réseaux"
+    ],
+    "raw": "Programmation dynamique, Graphes, réseaux",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/5-2024-05-05-CentreEtranger1.pdf",
+    "local_subject_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé LMydatalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-1-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé LMydatalogger.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-1-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé toutmonexam.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_05.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-centre-etrangers-24-NSIJ1G11-ex2",
+    "subject_id": "2024-centre-etrangers-24-NSIJ1G11",
+    "year": 2024,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1G11",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "Réseaux (1re) et protocoles de routage",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/5-2024-05-05-CentreEtranger1.pdf",
+    "local_subject_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé LMydatalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-1-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé LMydatalogger.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-1-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé toutmonexam.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_05.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-centre-etrangers-24-NSIJ1G11-ex3",
+    "subject_id": "2024-centre-etrangers-24-NSIJ1G11",
+    "year": 2024,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1G11",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation orientée objet"
+    ],
+    "raw": "POO, Bases de données et SQL",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/5-2024-05-05-CentreEtranger1.pdf",
+    "local_subject_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé LMydatalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-1-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé LMydatalogger.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-1-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé toutmonexam.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_05.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ1G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-centre-etrangers-24-NSIJ2G11-ex1",
+    "subject_id": "2024-centre-etrangers-24-NSIJ2G11",
+    "year": 2024,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2G11",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "récursivité",
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "Python en général, la programmation orientée objet et la récursivité.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/6-2024-05-06-CentreEtranger2.pdf",
+    "local_subject_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogge",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-2-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé Mydatalogge.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://toutmonexam.fr/upload/1717891020_c902e759b3.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé toutmonexam.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_06.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-centre-etrangers-24-NSIJ2G11-ex2",
+    "subject_id": "2024-centre-etrangers-24-NSIJ2G11",
+    "year": 2024,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2G11",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "arbres binaires",
+      "récursivité",
+      "programmation orientée objet",
+      "systèmes d’exploitation"
+    ],
+    "raw": "programmation objet, la récursivité, les arbres binaires et les systèmes d’exploitation (1re) .",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/6-2024-05-06-CentreEtranger2.pdf",
+    "local_subject_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogge",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-2-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé Mydatalogge.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://toutmonexam.fr/upload/1717891020_c902e759b3.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé toutmonexam.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_06.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-centre-etrangers-24-NSIJ2G11-ex3",
+    "subject_id": "2024-centre-etrangers-24-NSIJ2G11",
+    "year": 2024,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2G11",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "codage binaire (1re) , les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/6-2024-05-06-CentreEtranger2.pdf",
+    "local_subject_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogge",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-centres-etrangers-sujet-2-corr.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé Mydatalogge.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://toutmonexam.fr/upload/1717891020_c902e759b3.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé toutmonexam.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2024/correction_sujet_06.pdf",
+        "local_file": "NSI/2024/Centre Etrangers/24-NSIJ2G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-asie-24-NSIJ1JA1-ex1",
+    "subject_id": "2024-asie-24-NSIJ1JA1",
+    "year": 2024,
+    "session": "Asie",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1JA1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "la programmation Python, la programmation orientée objet et l’algorithmique",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ1JA1.pdf",
+    "local_subject_file": "NSI/2024/Asie/24-NSIJ1JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogg",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/NSI-2024-asie-1-sujet-officiel-corr.pdf",
+        "local_file": "NSI/2024/Asie/24-NSIJ1JA1/Corrigé Mydatalogg.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-asie-24-NSIJ1JA1-ex2",
+    "subject_id": "2024-asie-24-NSIJ1JA1",
+    "year": 2024,
+    "session": "Asie",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1JA1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "graphes",
+      "piles"
+    ],
+    "raw": "les graphes, la programmation, la structure de pile et l’algorithmique des graphes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ1JA1.pdf",
+    "local_subject_file": "NSI/2024/Asie/24-NSIJ1JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogg",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/NSI-2024-asie-1-sujet-officiel-corr.pdf",
+        "local_file": "NSI/2024/Asie/24-NSIJ1JA1/Corrigé Mydatalogg.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-asie-24-NSIJ1JA1-ex3",
+    "subject_id": "2024-asie-24-NSIJ1JA1",
+    "year": 2024,
+    "session": "Asie",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1JA1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "la programmation Python, la programmation orientée objet, les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ1JA1.pdf",
+    "local_subject_file": "NSI/2024/Asie/24-NSIJ1JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogg",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/NSI-2024-asie-1-sujet-officiel-corr.pdf",
+        "local_file": "NSI/2024/Asie/24-NSIJ1JA1/Corrigé Mydatalogg.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-asie-24-NSIJ2JA1-ex1",
+    "subject_id": "2024-asie-24-NSIJ2JA1",
+    "year": 2024,
+    "session": "Asie",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2JA1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "programmation python"
+    ],
+    "raw": "la programmation Python (listes, dictionnaires 1re) et la méthode “diviser pour régner” .",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ2JA1.pdf",
+    "local_subject_file": "NSI/2024/Asie/24-NSIJ2JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogger",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/NSI-2024-asie-2-sujet-officiel-corr.pdf",
+        "local_file": "NSI/2024/Asie/24-NSIJ2JA1/Corrigé Mydatalogger.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-asie-24-NSIJ2JA1-ex2",
+    "subject_id": "2024-asie-24-NSIJ2JA1",
+    "year": 2024,
+    "session": "Asie",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2JA1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet"
+    ],
+    "raw": "la programmation, la programmation orientée objet et les structures de données linéaires .",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ2JA1.pdf",
+    "local_subject_file": "NSI/2024/Asie/24-NSIJ2JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogger",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/NSI-2024-asie-2-sujet-officiel-corr.pdf",
+        "local_file": "NSI/2024/Asie/24-NSIJ2JA1/Corrigé Mydatalogger.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-asie-24-NSIJ2JA1-ex3",
+    "subject_id": "2024-asie-24-NSIJ2JA1",
+    "year": 2024,
+    "session": "Asie",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2JA1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation python"
+    ],
+    "raw": "les bases de données relationnelles, les requêtes SQL et la programmation en Python .",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ2JA1.pdf",
+    "local_subject_file": "NSI/2024/Asie/24-NSIJ2JA1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogger",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/NSI-2024-asie-2-sujet-officiel-corr.pdf",
+        "local_file": "NSI/2024/Asie/24-NSIJ2JA1/Corrigé Mydatalogger.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-métropole-24-NSIJ1ME1-ex1",
+    "subject_id": "2024-métropole-24-NSIJ1ME1",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1ME1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "graphes",
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "la programmation objet en Python et les graphes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ1ME_1.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ1ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-metropole-1-sujet-officiel_corr.pdf",
+        "local_file": "NSI/2024/Métropole/24-NSIJ1ME1/Corrigé Mydatalogger.pdf"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2925653"
+      },
+      {
+        "label": "Corrigé l'étudant",
+        "url": "https://fr.scribd.com/document/743535773/bac-2024-Correction-Bac-NSI"
+      }
+    ]
+  },
+  {
+    "id": "2024-métropole-24-NSIJ1ME1-ex2",
+    "subject_id": "2024-métropole-24-NSIJ1ME1",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1ME1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "bases de données",
+      "réseaux",
+      "sécurité / crypto"
+    ],
+    "raw": "protocoles de routage, de sécurité des communications et de base de données relationnelle.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ1ME_1.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ1ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-metropole-1-sujet-officiel_corr.pdf",
+        "local_file": "NSI/2024/Métropole/24-NSIJ1ME1/Corrigé Mydatalogger.pdf"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2925653"
+      },
+      {
+        "label": "Corrigé l'étudant",
+        "url": "https://fr.scribd.com/document/743535773/bac-2024-Correction-Bac-NSI"
+      }
+    ]
+  },
+  {
+    "id": "2024-métropole-24-NSIJ1ME1-ex3",
+    "subject_id": "2024-métropole-24-NSIJ1ME1",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1ME1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche",
+      "récursivité",
+      "programmation orientée objet"
+    ],
+    "raw": "l a programmation orientée objet, sur les arbres binaires de recherche et la récursivité.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ1ME_1.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ1ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Mydatalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-metropole-1-sujet-officiel_corr.pdf",
+        "local_file": "NSI/2024/Métropole/24-NSIJ1ME1/Corrigé Mydatalogger.pdf"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2925653"
+      },
+      {
+        "label": "Corrigé l'étudant",
+        "url": "https://fr.scribd.com/document/743535773/bac-2024-Correction-Bac-NSI"
+      }
+    ]
+  },
+  {
+    "id": "2024-métropole-24-NSIJ2ME1-ex1",
+    "subject_id": "2024-métropole-24-NSIJ2ME1",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2ME1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "sql",
+      "bases de données",
+      "sécurité / crypto"
+    ],
+    "raw": "la notion de bases de données relationnelles, le langage SQL et les protocoles de sécurisation.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ2ME.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ2ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé l'étudiant",
+        "url": "https://fr.scribd.com/document/743846239/Correction-Bac-NSI-Jour2"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2925703"
+      }
+    ]
+  },
+  {
+    "id": "2024-métropole-24-NSIJ2ME1-ex2",
+    "subject_id": "2024-métropole-24-NSIJ2ME1",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2ME1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "récursivité",
+      "programmation orientée objet",
+      "tris",
+      "algorithmes gloutons"
+    ],
+    "raw": "la programmation orientée objets, les tris, les algorithmes gloutons, la récursivité et les assertions",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ2ME.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ2ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé l'étudiant",
+        "url": "https://fr.scribd.com/document/743846239/Correction-Bac-NSI-Jour2"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2925703"
+      }
+    ]
+  },
+  {
+    "id": "2024-métropole-24-NSIJ2ME1-ex3",
+    "subject_id": "2024-métropole-24-NSIJ2ME1",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2ME1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "graphes",
+      "programmation orientée objet",
+      "dictionnaires"
+    ],
+    "raw": "la programmation orientée objet, les graphes et utilise la structure de données dictionnaire.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24_NSIJ2ME.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ2ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé l'étudiant",
+        "url": "https://fr.scribd.com/document/743846239/Correction-Bac-NSI-Jour2"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2925703"
+      }
+    ]
+  },
+  {
+    "id": "2024-polynésie-24-NSIJ1PO1-ex1",
+    "subject_id": "2024-polynésie-24-NSIJ1PO1",
+    "year": 2024,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1PO1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "graphes",
+      "réseaux"
+    ],
+    "raw": "les graphes et les protocoles réseau.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1PO1.pdf",
+    "local_subject_file": "NSI/2024/Polynésie/24-NSIJ1PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Datalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-polynesie-1-sujet-officiel_corr.pdf",
+        "local_file": "NSI/2024/Polynésie/24-NSIJ1PO1/Datalogger.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-polynésie-24-NSIJ1PO1-ex2",
+    "subject_id": "2024-polynésie-24-NSIJ1PO1",
+    "year": 2024,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1PO1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "récursivité"
+    ],
+    "raw": "la récursivité.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1PO1.pdf",
+    "local_subject_file": "NSI/2024/Polynésie/24-NSIJ1PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Datalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-polynesie-1-sujet-officiel_corr.pdf",
+        "local_file": "NSI/2024/Polynésie/24-NSIJ1PO1/Datalogger.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-polynésie-24-NSIJ1PO1-ex3",
+    "subject_id": "2024-polynésie-24-NSIJ1PO1",
+    "year": 2024,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1PO1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation python"
+    ],
+    "raw": "la programmation Python (dictionnaire), les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1PO1.pdf",
+    "local_subject_file": "NSI/2024/Polynésie/24-NSIJ1PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Datalogger",
+        "url": "https://projet.eu.org/pedago/sin/NSI/sujets/NSI-2024-polynesie-1-sujet-officiel_corr.pdf",
+        "local_file": "NSI/2024/Polynésie/24-NSIJ1PO1/Datalogger.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2024-polynésie-24-NSIJ2PO1-ex1",
+    "subject_id": "2024-polynésie-24-NSIJ2PO1",
+    "year": 2024,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2PO1",
+    "exercise": 1,
+    "points": 6,
+    "topics": [
+      "graphes",
+      "piles",
+      "files"
+    ],
+    "raw": "les structures de données FILE et PILE, les graphes et les algorithmes de parcours.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2PO1.pdf",
+    "local_subject_file": "NSI/2024/Polynésie/24-NSIJ2PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-polynésie-24-NSIJ2PO1-ex2",
+    "subject_id": "2024-polynésie-24-NSIJ2PO1",
+    "year": 2024,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2PO1",
+    "exercise": 2,
+    "points": 6,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche",
+      "récursivité",
+      "programmation orientée objet"
+    ],
+    "raw": "les arbres binaires de recherche, la POO et la récursivité",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2PO1.pdf",
+    "local_subject_file": "NSI/2024/Polynésie/24-NSIJ2PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-polynésie-24-NSIJ2PO1-ex3",
+    "subject_id": "2024-polynésie-24-NSIJ2PO1",
+    "year": 2024,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2PO1",
+    "exercise": 3,
+    "points": 8,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation python",
+      "réseaux"
+    ],
+    "raw": "les protocoles réseau, les bases de données relationnelles et les requêtes SQL, l’algorithmique et la programmation en Python.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2PO1.pdf",
+    "local_subject_file": "NSI/2024/Polynésie/24-NSIJ2PO1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-métropole-24-NSIJ1ME3-ex1",
+    "subject_id": "2024-métropole-24-NSIJ1ME3",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1ME3",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "sql",
+      "bases de données",
+      "programmation python"
+    ],
+    "raw": "la programmation Python, les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1ME3.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ1ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-métropole-24-NSIJ1ME3-ex2",
+    "subject_id": "2024-métropole-24-NSIJ1ME3",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1ME3",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "graphes",
+      "réseaux"
+    ],
+    "raw": "les réseaux, les protocoles de routage et les graphes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1ME3.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ1ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-métropole-24-NSIJ1ME3-ex3",
+    "subject_id": "2024-métropole-24-NSIJ1ME3",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "24-NSIJ1ME3",
+    "exercise": 3,
+    "points": 5,
+    "topics": [
+      "programmation orientée objet",
+      "piles"
+    ],
+    "raw": "les bases de numération, la structure de données PILE et la POO .",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ1ME3.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ1ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-métropole-24-NSIJ2ME3-ex1",
+    "subject_id": "2024-métropole-24-NSIJ2ME3",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2ME3",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "programmation python",
+      "décidabilité"
+    ],
+    "raw": "l’exécution d’un programme Python et sur la décidabilité.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2ME3.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ2ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-métropole-24-NSIJ2ME3-ex2",
+    "subject_id": "2024-métropole-24-NSIJ2ME3",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2ME3",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "programmation orientée objet",
+      "programmation python",
+      "piles"
+    ],
+    "raw": "la programmation Python, la programmation orientée objet, les tests et la structure de données pile",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2ME3.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ2ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2024-métropole-24-NSIJ2ME3-ex3",
+    "subject_id": "2024-métropole-24-NSIJ2ME3",
+    "year": 2024,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "24-NSIJ2ME3",
+    "exercise": 3,
+    "points": 5,
+    "topics": [
+      "sql",
+      "bases de données",
+      "réseaux"
+    ],
+    "raw": "les réseaux, les protocoles réseau, les bases de données relationnelles et les requêtes SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2024/24-NSIJ2ME3.pdf",
+    "local_subject_file": "NSI/2024/Métropole/24-NSIJ2ME3/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-inconnu-23-NSIZERO-ex1",
+    "subject_id": "2023-inconnu-23-NSIZERO",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "23-NSIZERO",
+    "exercise": 1,
+    "points": 3,
+    "topics": [
+      "bases de données"
+    ],
+    "raw": "(BDD Tle) bases de données et types construits de données",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_2023_sujet0_0A.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé pixees.fr",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2023/correction_sujet_01.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIZERO/Corrigé pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé fabricenativel",
+        "url": "https://fabricenativel.github.io/Terminale/Annales/Corriges/23-NSIZERO-A/"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIZERO-ex2",
+    "subject_id": "2023-inconnu-23-NSIZERO",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "23-NSIZERO",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "réseaux",
+      "systèmes d’exploitation"
+    ],
+    "raw": "(Réseau.1re/part) architecture matérielle, réseaux et systèmes d'exploitation",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_2023_sujet0_0A.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé pixees.fr",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2023/correction_sujet_01.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIZERO/Corrigé pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé fabricenativel",
+        "url": "https://fabricenativel.github.io/Terminale/Annales/Corriges/23-NSIZERO-A/"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIZERO-ex3",
+    "subject_id": "2023-inconnu-23-NSIZERO",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "23-NSIZERO",
+    "exercise": 3,
+    "points": 6,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche",
+      "programmation orientée objet"
+    ],
+    "raw": "(Arbres, POO Tle) arbres binaires de recherche et programmation objet",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_2023_sujet0_0A.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé pixees.fr",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2023/correction_sujet_01.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIZERO/Corrigé pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé fabricenativel",
+        "url": "https://fabricenativel.github.io/Terminale/Annales/Corriges/23-NSIZERO-A/"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIZERO-ex1",
+    "subject_id": "2023-inconnu-23-NSIZERO",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "23-NSIZERO",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "bases de données",
+      "systèmes d’exploitation"
+    ],
+    "raw": "(BDD Tle) ligne de commande sous Linux, traitement de données en tables et bases de données",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_2023_sujet0_0B.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé pixees.fr",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2023/correction_sujet_02.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIZERO/Corrigé pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé fabricenativel",
+        "url": "https://fabricenativel.github.io/Terminale/Annales/Corriges/23-NSIZERO-B/"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIZERO-ex2",
+    "subject_id": "2023-inconnu-23-NSIZERO",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "23-NSIZERO",
+    "exercise": 2,
+    "points": 4,
+    "topics": [
+      "récursivité"
+    ],
+    "raw": "(Recursif Tle) analyse et écriture de programmes récursifs",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_2023_sujet0_0B.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé pixees.fr",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2023/correction_sujet_02.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIZERO/Corrigé pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé fabricenativel",
+        "url": "https://fabricenativel.github.io/Terminale/Annales/Corriges/23-NSIZERO-B/"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIZERO-ex3",
+    "subject_id": "2023-inconnu-23-NSIZERO",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 0",
+    "code": "23-NSIZERO",
+    "exercise": 3,
+    "points": 4,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche"
+    ],
+    "raw": "(Arbres et POO Tle) arbres binaires de recherche et notion d'objet",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_2023_sujet0_0B.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIZERO/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé pixees.fr",
+        "url": "https://pixees.fr/informatiquelycee/term/suj_bac/2023/correction_sujet_02.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIZERO/Corrigé pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé fabricenativel",
+        "url": "https://fabricenativel.github.io/Terminale/Annales/Corriges/23-NSIZERO-B/"
+      }
+    ]
+  },
+  {
+    "id": "2023-centre-etrangers-23-NSIJ1G11-ex1",
+    "subject_id": "2023-centre-etrangers-23-NSIJ1G11",
+    "year": 2023,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1G11",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "(BDD Tle) Bases de données et langage SQL",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/23-NSIJ1G11.pdf",
+    "local_subject_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Pixees.fr",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1G11-pixees.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/Corrigé Pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://toutmonexam.fr/upload/1678783270_693ddbc51a.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/Corrigé toutmonexam.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-centre-etrangers-23-NSIJ1G11-ex2",
+    "subject_id": "2023-centre-etrangers-23-NSIJ1G11",
+    "year": 2023,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1G11",
+    "exercise": 2,
+    "points": 4,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "(Réseau Tle) Réseaux et protocoles de routage",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/23-NSIJ1G11.pdf",
+    "local_subject_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Pixees.fr",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1G11-pixees.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/Corrigé Pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://toutmonexam.fr/upload/1678783270_693ddbc51a.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/Corrigé toutmonexam.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-centre-etrangers-23-NSIJ1G11-ex3",
+    "subject_id": "2023-centre-etrangers-23-NSIJ1G11",
+    "year": 2023,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1G11",
+    "exercise": 3,
+    "points": 4,
+    "topics": [
+      "files"
+    ],
+    "raw": "(File Tle) Structures de Files",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/23-NSIJ1G11.pdf",
+    "local_subject_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Pixees.fr",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1G11-pixees.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/Corrigé Pixees.fr.pdf"
+      },
+      {
+        "label": "Corrigé toutmonexam",
+        "url": "https://toutmonexam.fr/upload/1678783270_693ddbc51a.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ1G11/Corrigé toutmonexam.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-centre-etrangers-23-NSIJ2G11-ex1",
+    "subject_id": "2023-centre-etrangers-23-NSIJ2G11",
+    "year": 2023,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2G11",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "(Réseaux Tle) Adressage IP et les protocoles de routage.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_centres_etranger_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-centres-etrangers-sujet-2-corr.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/Corrigé datalogger.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2G11-pixees.pdf.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-centre-etrangers-23-NSIJ2G11-ex2",
+    "subject_id": "2023-centre-etrangers-23-NSIJ2G11",
+    "year": 2023,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2G11",
+    "exercise": 2,
+    "points": 4,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "(BDD et SQL Tle) Bases de données relationnelles et le langage SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_centres_etranger_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-centres-etrangers-sujet-2-corr.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/Corrigé datalogger.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2G11-pixees.pdf.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-centre-etrangers-23-NSIJ2G11-ex3",
+    "subject_id": "2023-centre-etrangers-23-NSIJ2G11",
+    "year": 2023,
+    "session": "Centre Etrangers",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2G11",
+    "exercise": 3,
+    "points": 4,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche",
+      "programmation python",
+      "listes"
+    ],
+    "raw": "(Arbres binaires Tle) / Chaines de caractères (1re) Programmation en Python, la manipulation des chaînes de caractères, les arbres binaires de recherche et le parcours de liste.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_centres_etranger_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-centres-etrangers-sujet-2-corr.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/Corrigé datalogger.pdf"
+      },
+      {
+        "label": "Corrigé pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2G11-pixees.pdf.pdf",
+        "local_file": "NSI/2023/Centre Etrangers/23-NSIJ2G11/Corrigé pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-polynésie-23-NSIJ1PO1-ex1",
+    "subject_id": "2023-polynésie-23-NSIJ1PO1",
+    "year": 2023,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1PO1",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "sql"
+    ],
+    "raw": "(BDD et SQL Tle) Données relationnelles et le langage SQL",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI-2023-polynesie-1-sujet-officiel.pdf",
+    "local_subject_file": "NSI/2023/Polynésie/23-NSIJ1PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé teddy",
+        "url": "https://mooc-forums.inria.fr/moocnsi/uploads/short-url/AmC2llBdGNfzhfL6UbBVzrXDuyN.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/Corrigé teddy.pdf"
+      },
+      {
+        "label": "mydatalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-polynesie-sujet-1-corr.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/mydatalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1PO1-pixees.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-polynésie-23-NSIJ1PO1-ex2",
+    "subject_id": "2023-polynésie-23-NSIJ1PO1",
+    "year": 2023,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1PO1",
+    "exercise": 2,
+    "points": 4,
+    "topics": [
+      "programmation orientée objet",
+      "processus"
+    ],
+    "raw": "(POO Tle) Gestion des processus et la programmation orientée objet",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI-2023-polynesie-1-sujet-officiel.pdf",
+    "local_subject_file": "NSI/2023/Polynésie/23-NSIJ1PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé teddy",
+        "url": "https://mooc-forums.inria.fr/moocnsi/uploads/short-url/AmC2llBdGNfzhfL6UbBVzrXDuyN.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/Corrigé teddy.pdf"
+      },
+      {
+        "label": "mydatalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-polynesie-sujet-1-corr.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/mydatalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1PO1-pixees.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-polynésie-23-NSIJ1PO1-ex3",
+    "subject_id": "2023-polynésie-23-NSIJ1PO1",
+    "year": 2023,
+    "session": "Polynésie",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1PO1",
+    "exercise": 3,
+    "points": 4,
+    "topics": [
+      "programmation orientée objet"
+    ],
+    "raw": "(POO et diviser pour régner Tle) la programmation orientée objet et la méthode diviser-pourrégner",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI-2023-polynesie-1-sujet-officiel.pdf",
+    "local_subject_file": "NSI/2023/Polynésie/23-NSIJ1PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé teddy",
+        "url": "https://mooc-forums.inria.fr/moocnsi/uploads/short-url/AmC2llBdGNfzhfL6UbBVzrXDuyN.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/Corrigé teddy.pdf"
+      },
+      {
+        "label": "mydatalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-polynesie-sujet-1-corr.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/mydatalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1PO1-pixees.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ1PO1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-polynésie-23-NSIJ2PO1-ex1",
+    "subject_id": "2023-polynésie-23-NSIJ2PO1",
+    "year": 2023,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2PO1",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche",
+      "récursivité",
+      "programmation orientée objet"
+    ],
+    "raw": "(Arbres binaires, POO, récursivité Tle) arbres binaires, les arbres binaires de recherche, la programmation orientée objet et la récursivité.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/Polynesie_Bac_2023_NSI_Jour_2.pdf",
+    "local_subject_file": "NSI/2023/Polynésie/23-NSIJ2PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "teddy",
+        "url": "https://mooc-forums.inria.fr/moocnsi/uploads/short-url/ptJSBFqTzPKsxboSTBmL4sL5wxT.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/teddy.pdf"
+      },
+      {
+        "label": "mydatalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-polynesie-sujet-2-corr.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/mydatalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2PO1-pixees.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-polynésie-23-NSIJ2PO1-ex2",
+    "subject_id": "2023-polynésie-23-NSIJ2PO1",
+    "year": 2023,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2PO1",
+    "exercise": 2,
+    "points": 4,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "(BDD et SQL Tle) base de données, et principalement du modèle relationnel et du langage SQL.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/Polynesie_Bac_2023_NSI_Jour_2.pdf",
+    "local_subject_file": "NSI/2023/Polynésie/23-NSIJ2PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "teddy",
+        "url": "https://mooc-forums.inria.fr/moocnsi/uploads/short-url/ptJSBFqTzPKsxboSTBmL4sL5wxT.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/teddy.pdf"
+      },
+      {
+        "label": "mydatalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-polynesie-sujet-2-corr.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/mydatalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2PO1-pixees.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-polynésie-23-NSIJ2PO1-ex3",
+    "subject_id": "2023-polynésie-23-NSIJ2PO1",
+    "year": 2023,
+    "session": "Polynésie",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2PO1",
+    "exercise": 3,
+    "points": 4,
+    "topics": [
+      "processus"
+    ],
+    "raw": "(Architecture Tle) architecture matérielle, et plus particulièrement des processus et leur ordonnancement.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/Polynesie_Bac_2023_NSI_Jour_2.pdf",
+    "local_subject_file": "NSI/2023/Polynésie/23-NSIJ2PO1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "teddy",
+        "url": "https://mooc-forums.inria.fr/moocnsi/uploads/short-url/ptJSBFqTzPKsxboSTBmL4sL5wxT.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/teddy.pdf"
+      },
+      {
+        "label": "mydatalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-polynesie-sujet-2-corr.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/mydatalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2PO1-pixees.pdf",
+        "local_file": "NSI/2023/Polynésie/23-NSIJ2PO1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-métropole-23-NSIJ1ME1-ex1",
+    "subject_id": "2023-métropole-23-NSIJ1ME1",
+    "year": 2023,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1ME1",
+    "exercise": 1,
+    "points": 3,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "(BDD Tle) Bases de données et langage SQL",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/Metropole_Bac_2023_NSI_Jour_1.pdf",
+    "local_subject_file": "NSI/2023/Métropole/23-NSIJ1ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1093-bac-nsi-2023-metropole-sujets-et-corriges-de-nsi-sujets-1-et-2.html"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2924583"
+      },
+      {
+        "label": "webpeda",
+        "url": "https://www.scribd.com/document/632667771/Correction-Spe-Nsi-20-03"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1ME1-pixees.pdf",
+        "local_file": "NSI/2023/Métropole/23-NSIJ1ME1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-métropole-23-NSIJ1ME1-ex2",
+    "subject_id": "2023-métropole-23-NSIJ1ME1",
+    "year": 2023,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1ME1",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "(Réseau Tle) Réseaux et protocoles de routage",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/Metropole_Bac_2023_NSI_Jour_1.pdf",
+    "local_subject_file": "NSI/2023/Métropole/23-NSIJ1ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1093-bac-nsi-2023-metropole-sujets-et-corriges-de-nsi-sujets-1-et-2.html"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2924583"
+      },
+      {
+        "label": "webpeda",
+        "url": "https://www.scribd.com/document/632667771/Correction-Spe-Nsi-20-03"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1ME1-pixees.pdf",
+        "local_file": "NSI/2023/Métropole/23-NSIJ1ME1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-métropole-23-NSIJ1ME1-ex3",
+    "subject_id": "2023-métropole-23-NSIJ1ME1",
+    "year": 2023,
+    "session": "Métropole",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1ME1",
+    "exercise": 3,
+    "points": 6,
+    "topics": [
+      "programmation orientée objet",
+      "programmation python"
+    ],
+    "raw": "(POO Tle) Programmation orientée objet en Python et d’algorithmique",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/Metropole_Bac_2023_NSI_Jour_1.pdf",
+    "local_subject_file": "NSI/2023/Métropole/23-NSIJ1ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1093-bac-nsi-2023-metropole-sujets-et-corriges-de-nsi-sujets-1-et-2.html"
+      },
+      {
+        "label": "Corrigé studyrama",
+        "url": "https://liseuse.studyrama.com/BookReader/IframeEmbed?productId=2924583"
+      },
+      {
+        "label": "webpeda",
+        "url": "https://www.scribd.com/document/632667771/Correction-Spe-Nsi-20-03"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1ME1-pixees.pdf",
+        "local_file": "NSI/2023/Métropole/23-NSIJ1ME1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-métropole-23-NSIJ2ME1-ex1",
+    "subject_id": "2023-métropole-23-NSIJ2ME1",
+    "year": 2023,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2ME1",
+    "exercise": 1,
+    "points": 3,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "(Réseau Tle) Protocoles réseau.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_metropole_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Métropole/23-NSIJ2ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1093-bac-nsi-2023-metropole-sujets-et-corriges-de-nsi-sujets-1-et-2.html"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2ME1-pixees.pdf",
+        "local_file": "NSI/2023/Métropole/23-NSIJ2ME1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-métropole-23-NSIJ2ME1-ex2",
+    "subject_id": "2023-métropole-23-NSIJ2ME1",
+    "year": 2023,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2ME1",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "(BDD et SQL Tle) Les bases de données et le langage SQL. ♦Erreur dans la définition des clés de la table♦",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_metropole_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Métropole/23-NSIJ2ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1093-bac-nsi-2023-metropole-sujets-et-corriges-de-nsi-sujets-1-et-2.html"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2ME1-pixees.pdf",
+        "local_file": "NSI/2023/Métropole/23-NSIJ2ME1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-métropole-23-NSIJ2ME1-ex3",
+    "subject_id": "2023-métropole-23-NSIJ2ME1",
+    "year": 2023,
+    "session": "Métropole",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2ME1",
+    "exercise": 3,
+    "points": 6,
+    "topics": [
+      "arbres binaires",
+      "programmation orientée objet",
+      "files"
+    ],
+    "raw": "(POO, file Tle) Arbres binaires, les files et la programmation orientée objet. ♦Erreur dans une des fonctions mais sans préjudice majeur♦",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_metropole_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Métropole/23-NSIJ2ME1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1093-bac-nsi-2023-metropole-sujets-et-corriges-de-nsi-sujets-1-et-2.html"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J2ME1-pixees.pdf",
+        "local_file": "NSI/2023/Métropole/23-NSIJ2ME1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ1LI1-ex1",
+    "subject_id": "2023-inconnu-23-NSIJ1LI1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1LI1",
+    "exercise": 1,
+    "points": 3,
+    "topics": [
+      "algorithmique",
+      "la programmation"
+    ],
+    "raw": "(Récursivité Tle) Algorithmique et la programmation (fonction récursive).",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_liban_1_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ1LI1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1094-bac-nsi-2023-centre-etranger-g2-liban-sujets-et-corriges-de-nsi-sujets-1-et-2-2.html"
+      },
+      {
+        "label": "Datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-centres-etrangers-sujet-1b-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LI1/Datalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LI1-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LI1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ1LI1-ex2",
+    "subject_id": "2023-inconnu-23-NSIJ1LI1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1LI1",
+    "exercise": 2,
+    "points": 5,
+    "topics": [
+      "bases de données",
+      "réseaux"
+    ],
+    "raw": "(Réseau et BDD Tle) Bases de données, la représentation des données et les réseaux",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_liban_1_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ1LI1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1094-bac-nsi-2023-centre-etranger-g2-liban-sujets-et-corriges-de-nsi-sujets-1-et-2-2.html"
+      },
+      {
+        "label": "Datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-centres-etrangers-sujet-1b-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LI1/Datalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LI1-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LI1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ1LI1-ex3",
+    "subject_id": "2023-inconnu-23-NSIJ1LI1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1LI1",
+    "exercise": 3,
+    "points": 4,
+    "topics": [
+      "piles"
+    ],
+    "raw": "(Arbres et piles Tle) Cet exercice traite des piles, des arbres et de l’algorithmique.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_liban_1_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ1LI1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé www.math93.com",
+        "url": "https://www.math93.com/annales-du-bac/bac-specialite-nsi/1094-bac-nsi-2023-centre-etranger-g2-liban-sujets-et-corriges-de-nsi-sujets-1-et-2-2.html"
+      },
+      {
+        "label": "Datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-centres-etrangers-sujet-1b-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LI1/Datalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LI1-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LI1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ2LI1-ex1",
+    "subject_id": "2023-inconnu-23-NSIJ2LI1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2LI1",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "bases de données"
+    ],
+    "raw": "(BDD Tle) Bases de données.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_liban_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ2LI1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Datalogger",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI-2023-centres-etrangers-sujet-2b-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LI1/Datalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LI2-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LI1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ2LI1-ex2",
+    "subject_id": "2023-inconnu-23-NSIJ2LI1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2LI1",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "programmation python",
+      "tris",
+      "réseaux"
+    ],
+    "raw": "(Réseau et Prog. et Tri Fusion Tle) Réseaux, de la programmation Python et de l’algorithmique. Tri fusion",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_liban_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ2LI1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Datalogger",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI-2023-centres-etrangers-sujet-2b-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LI1/Datalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LI2-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LI1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ2LI1-ex3",
+    "subject_id": "2023-inconnu-23-NSIJ2LI1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet 2",
+    "code": "23-NSIJ2LI1",
+    "exercise": 3,
+    "points": 5,
+    "topics": [
+      "arbres",
+      "de l’algorithmique"
+    ],
+    "raw": "(Arbres et POO Tle) Arbres et de l’algorithmique.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/spe_numerique_informatique_2023_liban_2_sujet_officiel.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ2LI1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Datalogger",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI-2023-centres-etrangers-sujet-2b-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LI1/Datalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LI2-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LI1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-amérique-nord-23-NSIJ1AN1-ex1",
+    "subject_id": "2023-amérique-nord-23-NSIJ1AN1",
+    "year": 2023,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1AN1",
+    "exercise": 1,
+    "points": 5,
+    "topics": [
+      "bases de données"
+    ],
+    "raw": "(Part B : BDD Tle) et (1re/part A : dictionnaires) Traitement des données en table et les bases de données, deux parties indépendantes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_ADN_jour1.pdf",
+    "local_subject_file": "NSI/2023/Amérique Nord/23-NSIJ1AN1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-nord-23-NSIJ1AN1-ex2",
+    "subject_id": "2023-amérique-nord-23-NSIJ1AN1",
+    "year": 2023,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1AN1",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "processus"
+    ],
+    "raw": "(Processus, ordonnancement Tle) et (1re/part C : logique booléenne) Les processus, l'ordonnancement, la logique booléenne. Constitué de trois parties indépendantes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_ADN_jour1.pdf",
+    "local_subject_file": "NSI/2023/Amérique Nord/23-NSIJ1AN1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-nord-23-NSIJ1AN1-ex3",
+    "subject_id": "2023-amérique-nord-23-NSIJ1AN1",
+    "year": 2023,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 1",
+    "code": "23-NSIJ1AN1",
+    "exercise": 3,
+    "points": 5,
+    "topics": [
+      "programmation orientée objet"
+    ],
+    "raw": "(Arbres et POO Tle) Programmation orientée objet et  arbres. Deux parties indépendantes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_ADN_jour1.pdf",
+    "local_subject_file": "NSI/2023/Amérique Nord/23-NSIJ1AN1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-nord-(12) - Amérique Nord - Sujet 2 23-NSSJ2A-ex1",
+    "subject_id": "2023-amérique-nord-(12) - Amérique Nord - Sujet 2 23-NSSJ2A",
+    "year": 2023,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2",
+    "code": "(12) - Amérique Nord - Sujet 2 23-NSSJ2A",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "sql",
+      "bases de données",
+      "réseaux"
+    ],
+    "raw": "(BDD et protocole routageTle) Bases de données, SQL et protocoles de routage -  deux parties indépendantes.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_ADN_jour2.pdf",
+    "local_subject_file": "NSI/2023/Amérique Nord/(12) - Amérique Nord - Sujet 2 23-NSSJ2A/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-nord-(12) - Amérique Nord - Sujet 2 23-NSSJ2A-ex2",
+    "subject_id": "2023-amérique-nord-(12) - Amérique Nord - Sujet 2 23-NSSJ2A",
+    "year": 2023,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2",
+    "code": "(12) - Amérique Nord - Sujet 2 23-NSSJ2A",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche"
+    ],
+    "raw": "(Arbre binaire de recherche Tle) Arbres binaires de recherche et programmation.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_ADN_jour2.pdf",
+    "local_subject_file": "NSI/2023/Amérique Nord/(12) - Amérique Nord - Sujet 2 23-NSSJ2A/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-nord-(12) - Amérique Nord - Sujet 2 23-NSSJ2A-ex3",
+    "subject_id": "2023-amérique-nord-(12) - Amérique Nord - Sujet 2 23-NSSJ2A",
+    "year": 2023,
+    "session": "Amérique Nord",
+    "subject_label": "Sujet 2",
+    "code": "(12) - Amérique Nord - Sujet 2 23-NSSJ2A",
+    "exercise": 3,
+    "points": 5,
+    "topics": [
+      "dictionnaires"
+    ],
+    "raw": "(1re : SE, Prog et Dictionnaires) Systèmes Exploitation, programmation et dictionnaires",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_ADN_jour2.pdf",
+    "local_subject_file": "NSI/2023/Amérique Nord/(12) - Amérique Nord - Sujet 2 23-NSSJ2A/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ1LR1-ex1",
+    "subject_id": "2023-inconnu-23-NSIJ1LR1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ1LR1",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "(Protocole routage Tle ) et (1re : réseaux, adresses IP) Réseaux, adresses IP et la notation CIDR X1.X2.X3.X4/n , puis protocoles RIP et OSPF.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_Reunion_jour1.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ1LR1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-reunion-1-sujet-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LR1/Corrigé Datalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LR1-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LR1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ1LR1-ex2",
+    "subject_id": "2023-inconnu-23-NSIJ1LR1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ1LR1",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "programmation orientée objet",
+      "dictionnaires"
+    ],
+    "raw": "(POO et dictionnaires Tle) Programmation orientée objet et les dictionnaires.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_Reunion_jour1.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ1LR1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-reunion-1-sujet-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LR1/Corrigé Datalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LR1-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LR1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ1LR1-ex3",
+    "subject_id": "2023-inconnu-23-NSIJ1LR1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ1LR1",
+    "exercise": 3,
+    "points": 5,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "(BDD et SQL Tle) Bases de données relationnelles et le langage SQL",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_Reunion_jour1.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ1LR1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé Datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-reunion-1-sujet-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LR1/Corrigé Datalogger.pdf"
+      },
+      {
+        "label": "Pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LR1-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ1LR1/Pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ2LR1-ex1",
+    "subject_id": "2023-inconnu-23-NSIJ2LR1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ2LR1",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "arbres binaires",
+      "arbres binaires de recherche",
+      "récursivité",
+      "programmation orientée objet"
+    ],
+    "raw": "(Arbres, POO, récursivité Tle ) Arbres binaires de recherche, la programmation orientée objet et la récursivité..",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_Reunion_J2_29_mars_2023.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ2LR1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-reunion-2-sujet-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LR1/Corrigé datalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LR2-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LR1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ2LR1-ex2",
+    "subject_id": "2023-inconnu-23-NSIJ2LR1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ2LR1",
+    "exercise": 2,
+    "points": 3,
+    "topics": [
+      "réseaux"
+    ],
+    "raw": "(Protocole routage Tle ) et (1re : réseaux, adresses IP) Réseaux, adresses IP et la notation CIDR X1.X2.X3.X4/n , puis protocoles RIP et OSPF.",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_Reunion_J2_29_mars_2023.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ2LR1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-reunion-2-sujet-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LR1/Corrigé datalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LR2-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LR1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-inconnu-23-NSIJ2LR1-ex3",
+    "subject_id": "2023-inconnu-23-NSIJ2LR1",
+    "year": 2023,
+    "session": "Inconnu",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ2LR1",
+    "exercise": 3,
+    "points": 5,
+    "topics": [
+      "sql",
+      "bases de données"
+    ],
+    "raw": "(BDD et SQL Tle) Bases de données relationnelles et le langage SQL",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/NSI_Reunion_J2_29_mars_2023.pdf",
+    "local_subject_file": "NSI/2023/Inconnu/23-NSIJ2LR1/SUJET.pdf",
+    "corriges": [
+      {
+        "label": "Corrigé datalogger",
+        "url": "http://projet.eu.org/pedago/sin/NSI/sujets/NSI-2023-reunion-2-sujet-corr.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LR1/Corrigé datalogger.pdf"
+      },
+      {
+        "label": "pixees",
+        "url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/bacNSI-2023_J1LR2-pixees.pdf",
+        "local_file": "NSI/2023/Inconnu/23-NSIJ2LR1/pixees.pdf"
+      }
+    ]
+  },
+  {
+    "id": "2023-amérique-sud-23-NSIJ1AS1-ex1",
+    "subject_id": "2023-amérique-sud-23-NSIJ1AS1",
+    "year": 2023,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ1AS1",
+    "exercise": 1,
+    "points": 4,
+    "topics": [
+      "sql",
+      "programmation orientée objet",
+      "réseaux"
+    ],
+    "raw": "( Protocole routage Tle, POO, BDD et SQL ) Programmation orientée objet, protocoles de routages et SQL",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/sujet_13-23-NSIJ1AS1_AmSud.pdf",
+    "local_subject_file": "NSI/2023/Amérique Sud/23-NSIJ1AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-sud-23-NSIJ1AS1-ex2",
+    "subject_id": "2023-amérique-sud-23-NSIJ1AS1",
+    "year": 2023,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ1AS1",
+    "exercise": 2,
+    "points": 3,
+    "topics": [],
+    "raw": "(Arbres et Files Tle )",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/sujet_13-23-NSIJ1AS1_AmSud.pdf",
+    "local_subject_file": "NSI/2023/Amérique Sud/23-NSIJ1AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-sud-23-NSIJ1AS1-ex3",
+    "subject_id": "2023-amérique-sud-23-NSIJ1AS1",
+    "year": 2023,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ1AS1",
+    "exercise": 3,
+    "points": 4,
+    "topics": [
+      "programmation",
+      "algorithme de recadrage d'une image"
+    ],
+    "raw": "( Programmation/1re ) Programmation, algorithme de recadrage d'une image",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/sujet_13-23-NSIJ1AS1_AmSud.pdf",
+    "local_subject_file": "NSI/2023/Amérique Sud/23-NSIJ1AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-sud-23-NSIJ2AS1-ex1",
+    "subject_id": "2023-amérique-sud-23-NSIJ2AS1",
+    "year": 2023,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ2AS1",
+    "exercise": 1,
+    "points": 5,
+    "topics": [
+      "arbres binaires",
+      "programmation orientée objet",
+      "piles"
+    ],
+    "raw": "( Piles, POO et argres ) Programmation orientée objet, piles et arbres binaires, Notation polonaise inversée",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/sujet_14-23-NSIJ2AS1_AmSud.pdf",
+    "local_subject_file": "NSI/2023/Amérique Sud/23-NSIJ2AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-sud-23-NSIJ2AS1-ex2",
+    "subject_id": "2023-amérique-sud-23-NSIJ2AS1",
+    "year": 2023,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ2AS1",
+    "exercise": 2,
+    "points": 3,
+    "topics": [],
+    "raw": "(Routage Tle et SQL )",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/sujet_14-23-NSIJ2AS1_AmSud.pdf",
+    "local_subject_file": "NSI/2023/Amérique Sud/23-NSIJ2AS1/SUJET.pdf",
+    "corriges": []
+  },
+  {
+    "id": "2023-amérique-sud-23-NSIJ2AS1-ex3",
+    "subject_id": "2023-amérique-sud-23-NSIJ2AS1",
+    "year": 2023,
+    "session": "Amérique Sud",
+    "subject_label": "Sujet ?",
+    "code": "23-NSIJ2AS1",
+    "exercise": 3,
+    "points": 4,
+    "topics": [
+      "programmation",
+      "jeu de goban"
+    ],
+    "raw": "( Programmation/1re ) Programmation, jeu de Goban",
+    "pdf_subject_url": "https://www.math93.com/images/pdf/annales_bac/Bac_NSI/bac_NSI_2023/NSI-2023-EpreuveEcrite/sujet_14-23-NSIJ2AS1_AmSud.pdf",
+    "local_subject_file": "NSI/2023/Amérique Sud/23-NSIJ2AS1/SUJET.pdf",
+    "corriges": []
+  }
+]

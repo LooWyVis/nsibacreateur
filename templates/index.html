@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Annales NSI — Recherche par exercices</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <header class="wrap">
+    <h1>Annales NSI — Recherche par exercices</h1>
+    <a href="/generator"><button>Générateur de Bac Blanc</button></a>
+  </header>
+
+  <main class="wrap">
+    <section class="panel">
+      <div class="row">
+        <input id="q" placeholder="Recherche… (ex: graphes, SQL, huffman, processus)" />
+        <select id="year"></select>
+        <select id="session"></select>
+        <select id="points"></select>
+      </div>
+
+      <input id="tagFilter" placeholder="Filtrer les tags… (ex: sql, graphes)" />
+
+      <div class="tags" id="tags"></div>
+
+      <div class="row">
+        <span class="muted" id="count">—</span>
+        <button id="reset" class="btn">Réinitialiser</button>
+        <label class="muted" style="display:flex;gap:8px;align-items:center">
+          <input type="checkbox" id="onlySelectedSearch" />
+          N’utiliser que les thèmes sélectionnés
+        </label>
+      </div>
+    </section>
+
+    <section id="results" class="grid"></section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
