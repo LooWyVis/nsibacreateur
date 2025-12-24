@@ -150,7 +150,7 @@ async function generate() {
 }
 
 async function init() {
-  const r = await fetch("/data/exercises.json");
+  const r = await fetch("/data/exercises_standardises.json");
   EXS = await r.json();
   ALL_TAGS = computeTags(EXS);
 
