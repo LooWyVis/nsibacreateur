@@ -278,7 +278,7 @@ function refresh() {
 /* ---------- Init ---------- */
 
 async function init() {
-  const res = await fetch("/data/exercises.json");
+  const res = await fetch("/data/exercises_standardises.json");
   state.all = await res.json();
 
   buildSelect($("year"), uniqSorted(state.all.map((x) => x.year)), "Toutes les années");
@@ -336,5 +336,5 @@ async function init() {
 
 init().catch((err) => {
   console.error(err);
-  alert("Impossible de charger exercises.json. Vérifie que downloads/exercises.json existe.");
+  alert("Impossible de charger exercises.json. Vérifie que downloads/exercises_standardises.json existe.");
 });

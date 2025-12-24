@@ -11,9 +11,10 @@ EXERCISES_CACHE = None
 def load_exercises():
     global EXERCISES_CACHE
     if EXERCISES_CACHE is None:
-        path = os.path.join(DOWNLOADS_DIR, "exercises.json")
+        path = os.path.join(DOWNLOADS_DIR, "exercises_standardises.json")
         with open(path, "r", encoding="utf-8") as f:
             EXERCISES_CACHE = json.load(f)
+    print(EXERCISES_CACHE)
     return EXERCISES_CACHE
 
 @app.get("/")
